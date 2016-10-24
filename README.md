@@ -1,2 +1,4 @@
 # hello-world
-Sprinkler pump controller project
+Sprinkler pump project
+
+Testing the commit procedures
